@@ -171,7 +171,7 @@ namespace SistemaVentaAkira.View
         private void ICproveedores_Click(object sender, EventArgs e)
         {
             mostrarSubMenu(subMenuProveedor);
-            botonSeleccionado(sender, Color.FromArgb(255, 171, 145));
+            botonSeleccionado(sender, Color.FromArgb(255, 752, 145));
         }
 
         private void ICsalir_Click(object sender, EventArgs e)
