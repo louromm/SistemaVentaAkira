@@ -165,13 +165,13 @@ namespace SistemaVentaAkira.View
         {
             botonSeleccionado(sender, Color.FromArgb(255, 171, 145));
             mostrarSubMenu(subMenuReportes);
-            /*AbrirFormulario<ReporteGeneral>();
-            AbrirFormulario();*/
+            ///*AbrirFormulario<ReporteGeneral>();
+            //AbrirFormulario();*/
         }
         private void ICproveedores_Click(object sender, EventArgs e)
         {
-            mostrarSubMenu(subMenuProveedor);
-            botonSeleccionado(sender, Color.FromArgb(255, 171, 145));
+            //mostrarSubMenu(subMenuProveedor);
+            //botonSeleccionado(sender, Color.FromArgb(255, 850, 145));
         }
 
         private void ICsalir_Click(object sender, EventArgs e)
